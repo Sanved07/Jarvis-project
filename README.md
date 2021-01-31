@@ -1,2 +1,3 @@
 # Jarvis-project
-Iron man jarvis. Jarvis is an AI assistance.
+Iron man jarvis.
+Jarvis is an AI assistance.
